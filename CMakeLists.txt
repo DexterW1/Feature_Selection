@@ -3,4 +3,4 @@ project(Feature_Selection)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Feature_Selection src/main.cpp)
+add_executable(Feature_Selection src/main.cpp src/node.h)
